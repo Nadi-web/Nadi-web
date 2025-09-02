@@ -1,4 +1,3 @@
-# 💫 About Me:
 I'm currently studying VR development on Unity and Unreal Engine. <br>At the same time, I am developing my own VR application for Meta Quest, which is currently at the MVP stage. <br>After that, I plan to develop a VR racing simulator. <br>Very interested in communicating with like-minded people!
 
 
